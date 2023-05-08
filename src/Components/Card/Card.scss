@@ -1,0 +1,11 @@
+.Card{
+    background: #333;
+    width: 250px;
+    padding: 1em;
+    border-radius: 12px;
+    img{
+        width: 100%;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+}
